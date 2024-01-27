@@ -1,0 +1,2 @@
+## add the  eureka configuration for api gateway and identity sevice along with secret key which has to be passed to both the sevices inorder 
+## for them to work properly
